@@ -1,8 +1,11 @@
 # team_TFBS.md
 
+This is the home repo for Team Transcription Factor Binding Site (TFBS). 
+
 ## Team Members
 
-This is the home repo for Team Transcription Binding Site (TFBS). 
+- Alex Nakagawa
+- Jemima Shi
 
 ## Objective 
 
